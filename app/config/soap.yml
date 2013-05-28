@@ -1,0 +1,10 @@
+classes:
+  - Oro\Bundle\SearchBundle\Controller\Api\SoapController
+  - Oro\Bundle\UserBundle\Controller\Api\Soap\ProfileController
+  - Oro\Bundle\UserBundle\Controller\Api\Soap\RoleController
+  - Oro\Bundle\UserBundle\Controller\Api\Soap\GroupController
+  - Oro\Bundle\UserBundle\Controller\Api\Soap\AclController
+  - Oro\Bundle\AddressBundle\Controller\Api\Soap\AddressController
+  - OroCRM\Bundle\AccountBundle\Controller\Api\Soap\AccountController
+  - OroCRM\Bundle\ContactBundle\Controller\Api\Soap\ContactController
+  - OroCRM\Bundle\ContactBundle\Controller\Api\Soap\ContactGroupController
