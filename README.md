@@ -1,4 +1,4 @@
-*Note: canonical source is at [http://www.orocrm.com/download](http://www.orocrm.com/download)
+*Note: canonical source is at [http://www.orocrm.com/download](http://www.orocrm.com/download)*
 
 OroCRM Application
 ========================
